@@ -122,7 +122,7 @@ This project solves these challenges by integrating forecasting, NLP, and automa
 
 ## 👤 Author
 
-**Starman**  
+**Mohamed Sabeer**  
 AI / ML Enthusiast  
 
 ---
