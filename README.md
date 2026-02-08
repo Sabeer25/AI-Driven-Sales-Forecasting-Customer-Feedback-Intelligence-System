@@ -136,5 +136,3 @@ Perfect for:
 - Interview case studies
 
 ---
-
-**Feel free to fork, modify, and extend this project!**
